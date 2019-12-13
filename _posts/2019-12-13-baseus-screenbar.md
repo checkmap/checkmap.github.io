@@ -52,14 +52,14 @@ tags:
 
 **——这87就是论斤换算，也血赚不亏！**
 
-而打开快的瞬间，更是惊喜延续。
+而打开快递的瞬间，更是惊喜延续。
 
 - 包装盒坚固厚实，设计清爽简约。
 - 内容物一灯一线，分装干净利落。
 
 ~~包装盒因配合后续改造，现已光荣就义，没有全尸，此处开箱图以案发现场凑合。~~
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213152613.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222332.jpg)
 
 而最让人惊喜的，莫过于屏挂灯本身！
 
@@ -69,7 +69,7 @@ tags:
 
   87（不包邮），又不是不能用，要什么自行车？
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213020441.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222416.jpg)
 
 - 挂架部分虽是**铝合金桥+塑料封装的后置配重**，却在视觉上做到了塑料与铝合金画风一致，更有金属抛光圆片点缀关节转轴。
 - 所有与显示器接触的部分，都贴有**大面积**枪灰色**硅胶垫片**，防滑美观，滴水不漏。
@@ -82,7 +82,7 @@ tags:
 
 稳到按压开关+旋钮调光都能纹丝不动。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213012154.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222606.jpg)
 
 在稳如老狗的同时，还不用担心夹伤屏幕，与显示器搭配，相得益彰，无比和谐。
 
@@ -92,7 +92,7 @@ tags:
 
 如果你的显示器自带USB接口，更能直接给屏挂灯供电，“藏线”后干净利落。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213015432.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222718.jpg)
 
 **而无论显示器/pc是否开启，通过显示器usb供电的屏挂灯都能正常使用。**
 
@@ -137,11 +137,11 @@ tags:
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20191213160658.jpg)
 
-（上图片引自[《千元级台灯拔草—BenQ 明基 WiT ScreenBar 智能屏幕挂灯开箱简评》](https://post.smzdm.com/p/771935/)）
+（上图引自[《千元级台灯拔草—BenQ 明基 WiT ScreenBar 智能屏幕挂灯开箱简评》](https://post.smzdm.com/p/771935/)）
 
 而我们87（不包邮）的山寨屏挂灯呢？
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213161338.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222812.jpg)
 
 是的，你没看错。
 
@@ -149,7 +149,7 @@ tags:
 
 直接导致开灯光路成了这个德行：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213162159.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222853.jpg)
 
 近乎180度的水平光照区域——
 
@@ -195,7 +195,7 @@ tags:
 
 在确定内部改造完全没戏之后，最终备选改造方案如下：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213165709.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222923.jpg)
 
 - 方案①来自[同款山寨灯受害者](https://raw.githubusercontent.com/Pockies/pic/master/20191213165946.png)。
 
@@ -211,13 +211,13 @@ tags:
 
 几个方案改造效果如图（请参考屏幕反光与键盘亮度）：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213170758.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213222953.jpg)
 
 - 方案①因为挡住了太多光源，照度吃紧，而套上“遮罩”之后完全变成了DIY的模样，不再美观。
 - 方案③能完全解决屏幕反射，但反射又集中到了挡光板上，套上“遮罩”则是升级版的方案①，照度大，功能好，但是丑，也就失去了购买这款灯的一大意义。
 - 我最后决定折衷，选用了方案③，在把屏幕反射压低到“原版最小亮度”水平的同时，也保证了桌面的照度，并且完全没有破坏外观。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213172117.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223019.jpg)
 
 好在我的显示器边框较厚，并且屏幕内凹。
 
@@ -231,7 +231,7 @@ tags:
 
 用指甲扣出挂灯左侧的塑料封件，抽出导光条。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213172801.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223443.jpg)
 
 在导光条内侧贴上完全不透光的材料，如遮光胶带之类。
 
@@ -239,7 +239,7 @@ tags:
 
 **注意上部留空1.5mm左右给滑轨。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213173024.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223108.jpg)
 
 如果你比较在意外观，可以在导光条外侧贴上碳纤维贴纸之类的东西，进一步提高挡光性能。
 
@@ -249,7 +249,7 @@ tags:
 
 无论内部遮光条，还是外部贴纸，在右端记得留下空白，那里有内部卡口：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213174131.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223131.jpg)
 
 **遮光条留白6mm，贴纸留白2mm。**
 
@@ -257,7 +257,7 @@ tags:
 
 最终成品如图。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213174739.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223201.jpg)
 
 #### 更进一步
 
@@ -298,9 +298,9 @@ tags:
 
 一束柔光照亮桌面，温暖宜人。
 
-这个Moment，我终于能像明基广告吹逼的那样，开始愉快的护眼养生。
+这个Moment，我终于能像明基广告吹逼的那样，开始精致的护眼养生。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213210815.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223241.jpg)
 
 然而我还没来得及品味板南根的浓烈绵长，眼睛却又有了酸涩滋味。
 
@@ -376,7 +376,7 @@ tags:
 
 赶紧调整姿势。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213183553.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223331.jpg)
 
 咔嚓一张。
 
@@ -384,7 +384,7 @@ tags:
 
 这光！这影！
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20191213183719.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20191213223357.jpg)
 
 对比市售补光灯的感人定价后，**我愣是觉得自己赚了。**
 
