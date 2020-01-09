@@ -14,6 +14,28 @@ tags:
 
 - **※阅读正文前请保持房间明亮，并年满18岁。**
 
+# Update 2020.01.09
+
+[《利用AV Data Capture+Jellyfin+Kodi打造更优雅的本地AV（毛片）+普通影片媒体库》](https://pockies.github.io/2020/01/09/av-data-capture-jellyfin-kodi/)
+
+写了一篇更新文章，主要提供以下教程升级：
+
+- 全新的AV`元数据`抓取工具：[AV Data Capture](https://github.com/yoshiko2/AV_Data_Capture)。
+
+  支持**精准的批量抓取**，推荐使用。
+
+- 补充了打造普通影片（动画/电影/电视剧）媒体库的教程。
+
+- 服务端从Emby迁移到Jellyfin。
+
+- 更优雅的媒体库播放姿势（Windows与Android盒子客户端的全新解决方案）。
+
+强烈推荐结合本文与[新文章](https://pockies.github.io/2020/01/09/av-data-capture-jellyfin-kodi/)一起食用。
+
+以下正文。
+
+---
+
 折腾完 [斐讯N1](http://pockies.github.io/2019/03/07/phicomm-n1/) 后想着不能浪费这“电视盒子”的硬件解码能力，便择良辰选吉日，敲定于[3月8日国际妇女节](https://zh.wikipedia.org/wiki/%E5%9B%BD%E9%99%85%E5%A6%87%E5%A5%B3%E8%8A%82)开始搭建本地AV媒体库。
 
 **~~——只为给伟大的日本劳动女性献上赞歌。~~**

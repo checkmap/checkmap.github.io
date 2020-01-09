@@ -503,7 +503,7 @@ x86版Jellyfin的安装至此结束。
 
 剩下就是进web后台添加不同类型的媒体库。
 
-请参考上文添加普通影视库的部分。
+请参考上文添加[普通影视库](https://pockies.github.io/2020/01/09/av-data-capture-jellyfin-kodi/#%E6%B7%BB%E5%8A%A0%E5%BD%B1%E7%89%87%E5%88%B0%E5%AA%92%E4%BD%93%E5%BA%93)的部分。
 
 至于添加AV库和其他配置，同样参考[上篇文章](https://pockies.github.io/2019/03/25/everaver-emby-kodi/)里[Emby服务端的部分（点击跳转）](https://pockies.github.io/2019/03/25/everaver-emby-kodi/#%E5%AE%89%E8%A3%85emby%E5%B9%B6%E6%B7%BB%E5%8A%A0%E5%AA%92%E4%BD%93%E5%BA%93)。
 
