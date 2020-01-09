@@ -229,7 +229,7 @@ naming_rule = title
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108152813.png)
 
-# 元数据（表）/ Emby与Jellyfin刮削器
+# 元数据（表）/ 自带刮削器
 
 难得建立了媒体库，却只用来放AV，难免大材小用。
 
@@ -372,7 +372,7 @@ naming_rule = title
 
 ~~（截图里我手滑把代表季数的S01打成了E01，导致后来抓取`元数据`失败，大家不要学我，这是反面教材。）~~
 
-#### 添加影片到Emby/Jellyfin媒体库
+#### 添加影片到媒体库
 
 进入Emby/Jellyfin的控制台，按图设定默认元数据抓取语言（我选的日语）。
 
@@ -754,7 +754,7 @@ C硬的读写量可想而知。
 
   ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108223334.jpg)
 
-#### Emby/Jellyfin如何浏览本地文件夹目录？
+#### 如何浏览本地文件夹目录？
 
 以Jellyfin为例，进入控制台→`媒体库`→`显示`。
 
@@ -766,7 +766,7 @@ C硬的读写量可想而知。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20200109194634.jpg)
 
-####  Jellyfin的倒霉“硬解”与字幕组的坑爹“编码”
+####  倒霉“硬解”与坑爹“编码”
 
 正文开始之前，需要认识一下两位常见的视频编码选手：
 
