@@ -16,9 +16,11 @@ tags:
 
 # Update 2020.01.09
 
+写了一篇更新文章：
+
 [《利用AV Data Capture+Jellyfin+Kodi打造更优雅的本地AV（毛片）+普通影片媒体库》](https://pockies.github.io/2020/01/09/av-data-capture-jellyfin-kodi/)
 
-写了一篇更新文章，主要提供以下教程升级：
+主要提供以下教程升级：
 
 - 全新的AV`元数据`抓取工具：[AV Data Capture](https://github.com/yoshiko2/AV_Data_Capture)。
 
