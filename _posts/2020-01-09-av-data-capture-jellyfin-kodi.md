@@ -539,9 +539,9 @@ x86版Jellyfin的安装至此结束。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108193356.png)
 
-安装完成并登录账户后，后进入应用`设置`，勾选最底部的`调用外部媒体库播放`。
+安装完成并登录账户后，进入应用`设置`，找到`Preferred media player`，将其修改为`External app`。
 
-再安装一个[VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en_US)（自带TV界面），便能实现点击影片调用VLC硬解播放。
+再安装一个[VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc&hl=en_US)（自带TV界面），便能实现点击影片调用外部播放器VLC硬解播放。
 
 VLC的硬解能力现在相当靠谱——
 
