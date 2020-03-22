@@ -199,11 +199,11 @@ naming_rule = title
 
 解决完视频文件名之后就能正式使用了。
 
-将所有视频放到软件的同级目录，拖拽其中一个视频到`AV_Data_Capture.exe`上即可。
+将所有视频放到软件的同级目录，双击`AV_Data_Capture.exe`即可。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108151422.png)
 
-软件会自动识别并抓取同级目录下的所有视频文件，并按照我们此前设定的规则，将抓取完元数据的文件输出到`output`文件夹。
+软件会自动识别同目录下的视频文件，并按照我们此前设定的规则，将抓取完元数据的文件输出到`output`文件夹。
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108151717.png)
 
