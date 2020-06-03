@@ -40,7 +40,7 @@ tags:
 
 # 摄影 / 批判
 
-本次摄影的“模特”，是知名跳票大厂 ~~Later~~ Alter的全旧手办再版： [To LOVEる-とらぶる-ダークネス 1/7 黒咲芽亜]( 1/7 黒咲芽亜)。
+本次摄影的“模特”，是知名跳票大厂 ~~Later~~ Alter的全旧手办再版： [To LOVEる-とらぶる-ダークネス 1/7 黒咲芽亜](https://alter-web.jp/products/17/)。
 
 - 你可能不知道“[手办](https://zh.wikipedia.org/wiki/%E6%89%8B%E5%8A%9E)”是啥；
 - 你可能不知道“[Alter](https://alter-web.jp/)”是啥；
