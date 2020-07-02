@@ -46,7 +46,7 @@ Windows虽名叫“窗子”。
 
 既然系统自带不给力，那就得靠万能的第三方想想办法。
 
-**——子曰：”你已经是个成年人了，该学会自己装软件了。“**
+**——子曰：“你已经是个成年人了，该学会自己装软件了。”**
 
 在试用了一大堆分屏软件后，我最终选择了[PowerToys](https://github.com/microsoft/PowerToys)，原因无他：
 
@@ -76,13 +76,13 @@ Windows虽名叫“窗子”。
 - PowerToys Run / 开启一个类似水果Spotlight的快速搜索框；
 - Shortcut Guide / 长按win键，以显示当前窗口支持的快捷键列表。
 
-**”WTF？？？？“**
+**“WTF？？？？”**
 
 合着巨硬**也TND知道**自己那破“窗子”功能残缺，甚至自己做了个合集工具来补全。
 
 **还开源在了Gayhub——**
 
-**——而不是通过Windows更新，直接把这些功能整合进系统？？？？**
+**——而不是通过Windows更新，直接把这些功能整合进系统？？**
 
 ![](https://cdn.jsdelivr.net/gh/Pockies/pic/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(29).jpg)
 
