@@ -46,7 +46,7 @@ Windows虽名叫“窗子”。
 
 既然系统自带不给力，那就得靠万能的第三方想想办法。
 
-**子曰：”你已经是个成年人了，该学会自己装软件了。“**
+**——子曰：”你已经是个成年人了，该学会自己装软件了。“**
 
 在试用了一大堆分屏软件后，我最终选择了[PowerToys](https://github.com/microsoft/PowerToys)，原因无他：
 
@@ -59,13 +59,13 @@ Windows虽名叫“窗子”。
 
 点进软件的[Gayhub主页](https://github.com/microsoft/PowerToys)，开发者的名字竟神TM写着**“Microsoft”**。
 
-**![](https://cdn.jsdelivr.net/gh/Pockies/pic/Snipaste_2020-07-01_17-50-00.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Snipaste_2020-07-01_17-50-00.jpg)
 
 > [From Microsoft with love](https://github.com/Microsoft).
 >
 > 来自巨硬带着爱。
 
-——这是一款**微软自家开发**的[”合集“性质软件](https://zh.wikipedia.org/wiki/Microsoft_PowerToys)，作用是**扩展自家系统**的高级功能。
+——这是一款由**微软亲自部署，亲自开发**的[”合集“性质软件](https://zh.wikipedia.org/wiki/Microsoft_PowerToys)，作用是**扩展自家系统**的高级功能。
 
 且扩展的功能远不止一个“分屏”，堪称丰富：
 
@@ -78,7 +78,9 @@ Windows虽名叫“窗子”。
 
 **”WTF？？？？“**
 
-合着巨硬**也TND知道**自己那破“窗子”功能残缺，甚至自己做了个合集工具来补全，还开源在了Github——
+合着巨硬**也TND知道**自己那破“窗子”功能残缺，甚至自己做了个合集工具来补全。
+
+**还开源在了Gayhub——**
 
 **——而不是通过Windows更新，直接把这些功能整合进系统？？？？**
 
@@ -130,7 +132,7 @@ Windows虽名叫“窗子”。
 
 #### 编辑分屏区块
 
-完成以上设置后，回到顶部。
+完成以上设置后，回到这一页的顶部。
 
 点击`Edit zones`，打开**“分屏区块编辑器”**窗口配置你的分屏方式，翻译如下：
 
@@ -142,7 +144,7 @@ Windows虽名叫“窗子”。
 
 软件默认提供了五种窗口排列模式。
 
-根据你的自身需求选择，点击`Apply`保存即可开始使用。
+根据你的自身需求**选择**，点击`Apply`保存即可开始使用。
 
 效果如图：
 
@@ -160,7 +162,7 @@ Windows虽名叫“窗子”。
 
 哪怕你对自带的窗口排列方案不满意。
 
-也可以点击**分屏区块编辑器**左下角的`Edit selected lgyout`进行**自定义布局。**
+也可以进入“分屏区块编辑器”，点击左下角的`Edit selected lgyout`进行**自定义布局。**
 
 就像这样：
 
@@ -209,8 +211,8 @@ PowerToys的分屏教程至此结束。
 
 **——当你将窗口拖到两个分屏区块之间时，会合并两个区块形成一个2/3屏的大窗口，变成一大一小的上下二分屏。**
 
-- **2/3的高度正合适浏览网页；**
-- **1/3的高度则正合适播放器。**
+- 2/3的高度正合适浏览网页；
+- 1/3的高度则正合适播放器。
 
 而当进行多窗口的细碎任务时，自然也能进行三分屏。
 
@@ -223,7 +225,7 @@ PowerToys的分屏教程至此结束。
 眼眶。
 
 - 回想我此前使用bug10自带分屏，反复按快捷键并配合鼠标拖拽才**终于实现**仅仅一个窗口分屏的操蛋体验；
-- 回想我此前试用了一大堆分屏软件，不是ui丑陋，就是触发费劲，堪称一个比一个烂的坑爹过程。
+- 回想我此前试用了一大堆分屏软件，不是ui丑陋，就是触发费劲，堪称一个比一个烂的坑爹设计。
 
 **——谁能想到，最终完美解决Windows下竖屏“上下分屏”难题的，居然是Microsoft自身。**
 
@@ -236,7 +238,9 @@ PowerToys的分屏教程至此结束。
 
 [引用wiki](https://zh.wikipedia.org/wiki/Microsoft_PowerToys)，项目的定义如下：
 
-> **Microsoft PowerToys**是一组[免费](https://zh.wikipedia.org/wiki/免費軟體)的[系统工具](https://zh.wikipedia.org/wiki/系統軟體)软件，由[微软](https://zh.wikipedia.org/wiki/微软)为[Windows](https://zh.wikipedia.org/wiki/Windows)操作系统上的[高级用户](https://zh.wikipedia.org/w/index.php?title=進階使用者&action=edit&redlink=1)设计。这些程序为了使生产力达到最高，加入或变更了一些功能，或加入更多自定义选项。
+> **Microsoft PowerToys**是一组[免费](https://zh.wikipedia.org/wiki/免費軟體)的[系统工具](https://zh.wikipedia.org/wiki/系統軟體)软件，由[微软](https://zh.wikipedia.org/wiki/微软)为[Windows](https://zh.wikipedia.org/wiki/Windows)操作系统上的[高级用户](https://zh.wikipedia.org/w/index.php?title=進階使用者&action=edit&redlink=1)设计。
+>
+> 这些程序为了使生产力达到最高，加入或变更了一些功能，或加入更多自定义选项。
 
 希望未来某天。
 
