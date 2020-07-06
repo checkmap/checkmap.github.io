@@ -24,13 +24,13 @@ tags:
 
 PC的资源管理器也直接混乱成了这副鸟样：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308071116.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308071116.png)
 
 可随着我的[个人媒体库](http://pockies.github.io/2019/03/25/everaver-emby-kodi/)成功步入[高效化搭建](http://pockies.github.io/2020/01/09/av-data-capture-jellyfin-kodi/)的新时代。
 
 **硬盘容量**反倒成了迫在眉睫的新问题——
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308073824.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308073824.png)
 
 **——当囤积的高清学习资料突破2000本。**
 
@@ -41,7 +41,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 正当我纠结之时，刷出爆料一篇：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308073150.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308073150.png)
 
 看着西数12T每月一度的发车好价，再对比已然炒到每块600+的东芝企业4T。
 
@@ -63,7 +63,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 万万没想到[英国亚马逊](https://www.amazon.cn/dp/B07VXKF1L4?t=ca_yh_163-23&tag=ca_yh_163-23)采用的快递方式，居然是**裸盒直邮**：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308075911.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308075911.png)
 
 （上图引自[《海淘WD 12TB 硬盘开箱》](https://post.smzdm.com/p/and2pv5p/)，英亚快递普遍为左侧情况。）
 
@@ -82,17 +82,17 @@ PC的资源管理器也直接混乱成了这副鸟样：
 - 准备一个塑料刮刀/信用卡；
 - 沿着硬盘盒四角两侧，分别划开卡口，轻轻一抽便能无损带出本体。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308081446.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308081446.jpg)
 
 - 从外壳中框掰下硬盘，卸下硬盘上唯二的俩螺丝。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308082658.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308082658.jpg)
 
 一块白花花的西数减速氦气，便毫无保留地露出了她那丰饶身姿。
 
 然而——
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308082759.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308082759.jpg)
 
 - 神tm硬盘上侧的铁皮凹进去了一截；
 - 神tm硬盘右侧的铁皮甚至有点生锈；
@@ -101,7 +101,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 而当我翻过硬盘，映入眼帘的竟是更加窒息的现实。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308084153.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308084153.jpg)
 
 - 神tm西数这硬盘底部的**螺丝孔位置根本不标准**。
 
@@ -109,7 +109,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 **——直接意味着这玩意根本无法装上我的硬盘位（只支持标准开孔）。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308085054.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308085054.jpg)
 
 **金句：**
 
@@ -119,7 +119,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 姑且将硬盘“绑”上硬盘架的我，面临的却又是一轮翻车——
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308085637.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308085637.jpg)
 
 转过机箱一瞧：
 
@@ -142,7 +142,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 原本安分守己的东芝同学也突然来了波神风特攻，硬是凑了个“五连发卡翻”——
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308093128.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308093128.jpg)
 
 是的，你没有看错。
 
@@ -155,7 +155,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 **装机十余载，这还是我第一次整个“拔断”硬盘供电口，身败名裂。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308094234.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308094234.jpg)
 
 直到我拿着微距拍摄案发现场，这才发现了端倪：
 
@@ -183,7 +183,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 要迎接新来的西数12T就不得不插扩展卡了。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308100301.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308100301.jpg)
 
 临时买了张摩羯的垃圾。
 
@@ -193,7 +193,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 非常时期没得选择，我的标准已经低到了快递能到，能用就行。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308101137.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308101137.jpg)
 
 扩展卡免驱，插上即用。
 
@@ -201,17 +201,17 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 翻车翻到生无可恋的我，竟莫名有点感动。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308101404.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308101404.jpg)
 
 接着在俩2.5寸选手的屁股蛋子上，贴上祖传3M双面胶。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308101554.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308101554.jpg)
 
 一巴掌拍上电源。
 
 被新来的西数氦气占了老家的系统盘SSD和下载用黑盘，姑且有了个新家。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308101914.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308101914.jpg)
 
 最后扣上两块辣鸡东芝。
 
@@ -221,11 +221,11 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 由于有“英亚裸盒直邮喜提坏道”的受害者在前：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308102954.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308102954.png)
 
 装完机第一时间，我便开始了全扫。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308103220.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308103220.png)
 
 历时21小时半，有惊无险：
 
@@ -235,7 +235,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 查看通电次数后姑且**确认了全新**，至于因紧贴CPU散热而最令人担忧的温度问题——
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308103957.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308103957.png)
 
 室温19°C，西数氦气的温度保持在35°C~38°C之间，正常范围内。
 
@@ -243,7 +243,7 @@ PC的资源管理器也直接混乱成了这副鸟样：
 
 至于写入速度：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308104521.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308104521.png)
 
 基本OK。
 
@@ -285,7 +285,7 @@ bootrec /fixmbr
 
 这倒霉催的Jellyfin却**神tm给Kodi插件来了个[BUG更新](https://repo.jellyfin.org/releases/client/kodi/plugin.video.jellyfin/)**：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308111452.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308111452.png)
 
 看到图里那个0.5.0版本了吗？
 
@@ -303,7 +303,7 @@ bootrec /fixmbr
 
 **——“没事别开更新，不更新就不会BOOM，为什么不明白！”**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308112003.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308112003.png)
 
 ---
 
@@ -365,7 +365,7 @@ bootrec /fixmbr
 
 **——终于完成了从“NAS储存扩容”到“硬件检测”到“数据转移”的整个流程。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200308115944.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200308115944.png)
 
 瘫坐在显示器前，挣扎着脱掉裤子。
 

@@ -24,13 +24,13 @@ tags:
 
 就在昨天早上，Weibo毫无通告的开启了防盗链，站外引用图片集体403。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies19.04.27-01.40.55.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies19.04.27-01.40.55.png)
 
 我的Blog一时间受灾惨重几乎瘫痪，尤其一些长篇图文教程。
 
 虽然被Weibo这轮背刺搞得满肚子窝火，但Weibo在**并没有“图床服务”**的情况下**一直开放外链**让我们爽了7年之久，也算仁至义尽。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.15.07.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-14.15.07.png)
 
 所以面对~~辣鸡~~可乐的~~无端~~指责，我竟无法反驳，甚至痛定思痛点了个赞......
 
@@ -46,23 +46,23 @@ tags:
 
 打开[GitHub](https://github.com)，点右上角新建仓库。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.36.50.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-14.36.50.png)
 
 起一个名字，如`pic` ，设为公开（私密将无法外链显示），点击`Create repository`。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.37.17.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-14.37.17.png)
 
 然后进入网页 [github.com/settings/tokens](https://github.com/settings/tokens)，点击`Generate new token`。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.45.32.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-14.45.32.png)
 
 填写令牌描述，如`pic`；设置里勾选`repo`，拉到网页底部，点击`Generate token` 生成令牌。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.50.11.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-14.50.11.png)
 
 **※务必复制保存这串令牌备用，GitHub只会显示这一次。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-14.52.10.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-14.52.10.png)
 
 GitHub配置结束。
 
@@ -88,11 +88,11 @@ GitHub配置结束。
 
 点击`确定`，并`设为默认图床`。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-15.08.07.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-15.08.07.png)
 
 然后进入PicGo的上传区，拖拽图片即可上传，上传完成会根据底部选择的`链接格式`，自动复制对应格式的文本到剪贴板。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-15.19.42.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-15.19.42.png)
 
 现在，你已经能拿GitHub当图床使了：
 
@@ -117,15 +117,15 @@ GitHub配置结束。
 
 首次安装该插件会提示安装[Node.js](https://nodejs.org/en/)，同样安装即可。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-15.53.39.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-15.53.39.png)
 
 安装完成重启软件，点击插件右下角的齿轮图标，`选择文件`。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-15.58.84.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-15.58.84.png)
 
 在弹出对话框内打开你想转移图片的文章**（必须是Markdown格式）**。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/%E6%89%93%E5%BC%80(468).png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/%E6%89%93%E5%BC%80(468).png)
 
 软件会自动抓取文内所有Weibo图片，并上传至PicGo的**默认图床**（如上文设置的github），同时自动将文内的Weibo外链替换成新图床。
 
@@ -149,7 +149,7 @@ GitHub配置结束。
 
 - **时刻关注右下角通知**，出现迁移失败就赶紧检查，一两张失败推荐扒下来手动上传，数量过多就拆分文章重试。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27.01.23.59.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27.01.23.59.png)
 
 - 手动上传偶尔也会失败，**修改一下图片文件名**再传即可。
 
@@ -163,7 +163,7 @@ GitHub配置结束。
 
 安装Chrome扩展如[Referer Control](https://chrome.google.com/webstore/detail/referer-control/hnkcfpcejkafcihlgbojoidoihckciin)，进入扩展设置：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-17.01.357.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-17.01.357.png)
 
 - `site filter`内填入`sinaimg.cn`；
 - `referer setting`选择`Block`。
@@ -190,7 +190,7 @@ GitHub算是目前**免费图床**里最稳定，且最便利的一个。
 
 将图片上传OneDrive，右键，选择`嵌入`，网页右侧就会生成链接。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-18.21.13.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-18.21.13.png)
 
 普通图片直接引用张贴即可；如果是GIF动图，则需要**删除链接末尾的高宽设置**，比如我这张末尾的`?width=520&height=293&cropmode=none`，否则GIF不会动。
 
@@ -220,7 +220,7 @@ OneDrive测试图片（1.3MB，GIF）：
 
   尤其政治敏感内容与色情图片，按内部成员说法，审查方式为AI自动+人工审核，不算宽松。
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-19.03.30.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-19.03.30.png)
 
 - **因不可抗力暂时撤掉了国内CDN。**
 
@@ -268,13 +268,13 @@ Upload.cc测试图片（1.3MB，GIF）：
 
 由于我始终都开着[广告屏蔽](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)，以至于最近才发现[Disqus](https://disqus.com/)居然在评论区硬塞了三处大幅广告，直接影响评论内容的正常展示：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/Pockies.19.04.27-19.49.37.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/Pockies.19.04.27-19.49.37.png)
 
 **神TM我自己都没想过给Blog加广告，你区区一个评论插件居然偷摸开了整整三处，还让人月付10刀才能关闭？**
 
 **——“干你亲娘！”**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/(55).png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/(55).png)
 
 当场用[Gitalk](https://gitalk.github.io/)替换掉垃圾[Disqus](https://disqus.com/)。
 

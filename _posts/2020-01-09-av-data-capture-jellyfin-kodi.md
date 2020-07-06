@@ -28,7 +28,7 @@ tags:
 
 **——来自人类的伟大智慧，已经让我们拥有了更加先进的生产力工具。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108123008.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108123008.jpg)
 
 **——是时候开启科技革命了！**
 
@@ -51,7 +51,7 @@ tags:
 
 去年我们抓取AV`元数据`使用的是[EverAver](https://everaver.blogspot.com/?zx=2aeb97a65a8c97a9)。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461gy1g1cxc34fgzj20sw0m1wgl.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/741f9461gy1g1cxc34fgzj20sw0m1wgl.jpg)
 
 这个软件功能丰富，可编辑性强，**但却有几个致命缺陷：**
 
@@ -77,7 +77,7 @@ tags:
 
 #### 关于AV Data Capture
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108153502.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108153502.png)
 
 软件本身只有三个文件，甚至连“UI”都没有（只有命令行窗口）。
 
@@ -95,7 +95,7 @@ tags:
 
 - 得益于数据来自J██bus，抓取后的`元数据`自带标签，并支持在媒体库中显示背景墙。
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108133328.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108133328.png)
 
   （[EverAver](https://everaver.blogspot.com/?zx=2aeb97a65a8c97a9)抓取的`元数据`同样齐全，但由于没有针对特定媒体库做特定优化，存在部分信息无法显示的问题。）
 
@@ -115,7 +115,7 @@ AV Data Capture不仅提供了更加便捷，精准，全面的`元数据`抓取
 
 在[Gayhub](https://github.com/yoshiko2/AV_Data_Capture/releases)下载并解压后会得到三个文件：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108140841.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108140841.png)
 
 打开`config.ini`，默认内容与对应说明如下：
 
@@ -165,7 +165,7 @@ naming_rule = title
 ------------番号.avi
 ```
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108143739.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108143739.png)
 
 如果你想自己设定`[Name_Rule]`规则，请参考软件的[说明页面]([https://github.com/yoshiko2/AV_Data_Capture#2%E9%85%8D%E7%BD%AEconfigini](https://github.com/yoshiko2/AV_Data_Capture#2配置configini))。
 
@@ -183,7 +183,7 @@ naming_rule = title
 
 好在现在靠谱放流的默认命名都比较干净，**如图所示的文件名都能直接识别：**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108145402.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108145402.png)
 
 - **“多集作品”的文件名要求。**
 
@@ -193,7 +193,7 @@ naming_rule = title
 
 （看上篇文章的反馈，有很多人**找不到多集作品的其他分集在哪**，请点击跳转至文末查看具体说明。）
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108150142.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108150142.png)
 
 - **开始使用**
 
@@ -201,11 +201,11 @@ naming_rule = title
 
 将所有视频放到软件的同级目录，双击`AV_Data_Capture.exe`即可。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108151422.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108151422.png)
 
 软件会自动识别同目录下的视频文件，并按照我们此前设定的规则，将抓取完元数据的文件输出到`output`文件夹。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108151717.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108151717.png)
 
 整个元数据抓取也至此结束。
 
@@ -215,7 +215,7 @@ naming_rule = title
 
 将它们剪切到[AV Data Capture](https://github.com/yoshiko2/AV_Data_Capture)的程序文件夹，并重新抓取`元数据`，便一键完成了整个媒体库的重新构建和迁移。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108154213.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108154213.png)
 
 对比此前用[EverAver](https://everaver.blogspot.com/?zx=2aeb97a65a8c97a9)一部一部抓取，1000部影片抓了整整一周的体验。
 
@@ -227,7 +227,7 @@ naming_rule = title
 
 唯有热泪两行，能表达我对开发者同志的感激之情。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108152813.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108152813.png)
 
 # 元数据（表）/ 自带刮削器
 
@@ -243,7 +243,7 @@ naming_rule = title
 
 请事先按剧种建好大分类文件夹后，再进行后续操作：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108173138.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108173138.png)
 
 #### 普通影片的元数据抓取
 
@@ -298,7 +298,7 @@ naming_rule = title
 
   实例如下：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108161739.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108161739.png)
 
 - **[Shows（动画，电视剧）](https://jellyfin.org/docs/general/server/media/shows.html)**
 
@@ -328,11 +328,11 @@ naming_rule = title
 
   如《攻壳机动队》，进入它的[TheTVDB页面](https://www.thetvdb.com/series/ghost-in-the-shell-stand-alone-complex)，在右边大封面下会有一个剧集目录：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108164544.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108164544.png)
 
   点进`Specials`，便能看见所有ova/番外/剧场版的对应编号。
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108164742.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108164742.png)
 
   `Season`文件夹同理，`S01`表示第一季，`S01E01`则表示第一季的第一集。
 
@@ -340,7 +340,7 @@ naming_rule = title
 
   实例如下：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108165813.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108165813.png)
 
 #### 使用[ReNamer](http://www.den4b.com/products/renamer)批量重命名
 
@@ -352,21 +352,21 @@ naming_rule = title
 
 以《半泽直树》为例，在[TheTVDB](https://www.thetvdb.com/series/naoki-hanzawa)搜索确定英文名，并建好本地文件夹层级后开始修改。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108170839.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108170839.png)
 
 打开[ReNamer](http://www.den4b.com/products/renamer)，将视频文件拖进软件窗口：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108170958.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108170958.png)
 
 点击添加规则：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108171102.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108171102.png)
 
 [ReNamer](http://www.den4b.com/products/renamer)支持的规则相当丰富，**甚至支持正则**。
 
 不过改个电视剧而已，“替换”+“移除”就够用了：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108171735.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108171735.png)
 
 [ReNamer](http://www.den4b.com/products/renamer)支持结果预览，确认无误后点击“重命名”按钮即可完成重命名。
 
@@ -376,11 +376,11 @@ naming_rule = title
 
 进入Emby/Jellyfin的控制台，按图设定默认元数据抓取语言（我选的日语）。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108172301.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108172301.png)
 
 点击添加媒体库，打开右上角的“显示高级设置”。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108232420.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108232420.png)
 
 根据你的影片类型选择`内容类型`并勾选正确的DB站：
 
@@ -394,23 +394,23 @@ naming_rule = title
 
   `实时监控`视情况开启，个人选择了关闭。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108174018.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108174018.png)
 
 剩下就是等待媒体库扫描完成。
 
 如果这都有无法识别/识别错误/信息抓取不全的漏网之鱼，在Emby/Jellyfin里手动“识别”/“刷新”即可：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108174122.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108174122.png)
 
 识别完成后，诸如封面/演员/简介/媒体评分/海报/单集预览/单集简介之类的信息便一应俱全：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108175318.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108175318.png)
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108174913.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108174913.jpg)
 
 抓取的`元数据`则作为NFO和图片，保留在了你的视频文件夹。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108175959.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108175959.png)
 
 需要迁移/重装/使用其它媒体库时，也就不用重新抓取`元数据`了。
 
@@ -455,13 +455,13 @@ naming_rule = title
 
 下载后解压，双击里面的`install.bat`，会弹出安装对话框：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108183822.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108183822.png)
 
 可以自定义安装位置/媒体库位置/创建桌面快捷方式之类，按需调整后点击“Install”即可。
 
 安装完成后，双击安装位置里的`jellyfin.exe`便运行了媒体服务：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108184338.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108184338.jpg)
 
 是的，你没看错。
 
@@ -491,13 +491,13 @@ Object("Wscript.Shell")
 
 保存，修改文件名为`Jellyfin.vbs`
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108190046.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108190046.png)
 
 启动Jellyfin时双击这个vbs脚本即可，Jellyfin会作为一个**没有窗口的后台进程运行**。
 
 而将`Jellyfin.vbs`脚本扔进开始菜单的`启动`文件夹里，便实现了开机无窗口启动Jellyfin。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108230105.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108230105.png)
 
 x86版Jellyfin的安装至此结束。
 
@@ -537,7 +537,7 @@ x86版Jellyfin的安装至此结束。
 
 ~~要知道Emby的TV应用不仅收费，辣鸡新版本还又丑又卡。~~
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108193356.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108193356.png)
 
 安装完成并登录账户后，进入应用`设置`，找到`Preferred media player`，将其修改为`External app`。
 
@@ -562,25 +562,25 @@ VLC的硬解能力现在相当靠谱——
 
 如果你决定后果自负，请进Emby/Jellyfin控制台开启Dlna，选择默认媒体库账户，保存。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108195109.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108195109.png)
 
 打开客户端PC的`设置`，进入`设备`→`添加蓝牙或其他设备`→`添加其他设备`。
 
 选中Emby/Jellyfin的Dlna服务并添加：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108195819.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108195819.png)
 
 然后资源管理器的`此电脑`上会出现该服务。
 
 进入之后便能看见所有媒体库：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108200710.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108200710.png)
 
 同时还能浏览“最近添加”“收藏”“标签”等一系列内容，浏览体验与web端无异。
 
 影片自然一部不少，每一部都有封面+标题，双击即调用本地播放器（如Potplayer）播放——
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108201058.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108201058.png)
 
 **——然后你会发现资源管理为了播放影片，愣是把一个个高达四五GB的小电影，1kb不差的往本地Internet临时文件夹（默认在C盘）里复制。**
 
@@ -592,13 +592,13 @@ C硬的读写量可想而知。
 
 `Win+R` 打开“运行”，输入`regedit.exe`，“确定”以打开“注册表编辑器”：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108201845.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108201845.png)
 
 
 
 依次展开目录：HKEY_CURRENT_USER\Software \Microsoft\Windows\CurrentVersion\Explorer\Users Shell Folders。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108202323.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108202323.png)
 
 双击里面的`Cache`修改`数值数据`。
 
@@ -608,11 +608,11 @@ C硬的读写量可想而知。
 
 不过用“资源管理器”浏览Dlna服务，每次播放都得等1分钟的复制读条，实在不够优雅：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108203315.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108203315.png)
 
 请打开巨硬自带的“[电影与电视](https://www.microsoft.com/zh-cn/p/%E7%94%B5%E5%BD%B1%E5%92%8C%E7%94%B5%E8%A7%86/9wzdncrfj3p2)”，进入“媒体服务器”进行浏览。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108203006.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108203006.png)
 
 内容浏览上同样没差，并且点击即放，随存随播。
 
@@ -650,31 +650,31 @@ C硬的读写量可想而知。
 
   修改为Jellfin的官方源：`https://repo.jellyfin.org/releases/client/kodi/`
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108210027.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108210027.png)
   
 - 安装[“插件库”](https://pockies.github.io/2019/03/25/everaver-emby-kodi/#%E6%B7%BB%E5%8A%A0emby%E5%AE%98%E6%96%B9%E6%BA%90%E5%B9%B6%E5%AE%89%E8%A3%85%E6%8F%92%E4%BB%B6%E5%BA%93)的部分。
 
   同样改从Jellfin的官方源里安装：
   
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108210505.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108210505.png)
   
 - 安装[“视频插件”](https://pockies.github.io/2019/03/25/everaver-emby-kodi/#%E5%AE%89%E8%A3%85emby%E8%A7%86%E9%A2%91%E6%8F%92%E4%BB%B6)的部分。
   
   自然也成了“按目录进入`Kodi Jellyfin Addons`→`视频插件`→`Jellyfin`。”
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108210809.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108210809.png)
   
 - Jellyfin甚至能**~~白漂~~**Emby的[Kodi皮肤](https://pockies.github.io/2019/03/25/everaver-emby-kodi/#%E6%8D%A2%E4%B8%8Aembuary%E7%9A%AE%E8%82%A4)。
   
   直接进入Kodi`插件`→`从库安装`→`所有库`→`界面外观`→`皮肤`，找到Embuary并安装即可：
   
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108211745.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108211745.png)
 
 等安装完Embuary皮肤，你也就知道为什么需要手柄了。
 
 **——神TM这皮肤不支持鼠标操作，并弹出一个巨大的“WARNING!”让你禁用鼠标。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108212222.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108212222.png)
 
 当然了，**手柄控制Kodi的体验肯定是“爽到”，也强烈推荐PC端用手柄控制。**
 
@@ -684,37 +684,37 @@ C硬的读写量可想而知。
 
 - 进入`Embuary设置`→`窗口配置`→`主界面`→`编辑菜单配置`：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108213455.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108213455.png)
 
   按图示顺序，“添加”和“隐藏”项目：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108213545.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108213545.png)
 
 - 进入`Embuary设置`→`窗口配置`→`主界面`→`编辑小部件配置`：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108213658.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108213658.png)
 
   按图示顺序，“添加”项目：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108213801.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108213801.png)
 
 完成上述调整后，返回首页。
 
 **——你将看到完美的媒体库：**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108221817.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108221817.jpg)
 
 电影/电视/动画/AV，各个媒体库互不干预，各自独立。
 
 影片信息一应俱全：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108215714.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108215714.jpg)
 
 而当AV数量上了2000+之后，想要“点播观看”已经过于“低效”。
 
 **——所以再让我们回到首页：**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108215752.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108215752.jpg)
 
 经过魔改后的首页，会向你**随机推荐**毛片“类型”。
 
@@ -724,7 +724,7 @@ C硬的读写量可想而知。
 
 **——品类多样，任君挑选。**
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108222308.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108222308.jpg)
 
 我们在`元数据`阶段抓取的毛片Tag并没白费；
 
@@ -746,13 +746,13 @@ C硬的读写量可想而知。
 
 - Emby/Jellyfin的Web页面与客户端，分集会作为“附加部分”显示。
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108222915.jpg)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108222915.jpg)
 
 - 在Kodi里，分集列表需要点击“播放控件”上的按钮进入。
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108223323.jpg)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108223323.jpg)
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200108223334.jpg)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108223334.jpg)
 
 #### 如何浏览本地文件夹目录？
 
@@ -760,11 +760,11 @@ C硬的读写量可想而知。
 
 勾选“显示一个“文件夹”类别用于按文件夹分类浏览你的媒体文件夹”。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200109194318.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200109194318.png)
 
 返回首页就能看到人口。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200109194634.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200109194634.jpg)
 
 ####  倒霉“硬解”与坑爹“编码”
 
@@ -784,11 +784,11 @@ C硬的读写量可想而知。
 
 压制者一般会把编码标注在视频文件名后，就像这样：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200109115308.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200109115308.png)
 
 而本次用Jellyfin替换掉Emby的另一大原因，就是Jellyfin能**免费开启硬解**：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108223800.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108223800.png)
 
 我原本计划的最佳PC`客户端`解决方案，自然也是直接NAS硬解+Web播放。
 
@@ -798,7 +798,7 @@ C硬的读写量可想而知。
 
 但Jellyfin的硬解，却神TM不支持我这代CPU：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108224447.png)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108224447.png)
 
 （支持列表如上。）
 
@@ -812,7 +812,7 @@ C硬的读写量可想而知。
 
 - 而一放AVC 10-bit，岂止CPU顶满100%，画面还2s一卡直接变PPT。
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200109020827.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200109020827.png)
 
 也因为**祖国卡通字幕组**贼爱用AVC 10-bit压制BD。
 
@@ -828,7 +828,7 @@ C硬的读写量可想而知。
 
 我也很绝望。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20200108225542.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200108225542.jpg)
 
 **开源软件，海贼片源。**
 
@@ -846,7 +846,7 @@ C硬的读写量可想而知。
 
 - 人还贼耿直的照着建议添加了功能：
 
-  ![](https://raw.githubusercontent.com/Pockies/pic/master/20200109125912.png)
+  ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20200109125912.png)
 
 - 现在整个软件已经相当稳定且靠谱。
 
@@ -920,4 +920,4 @@ C硬的读写量可想而知。
 
 ——愿2020能更加有趣。
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/741f9461ly1fz5dbxkn7nj212w0lv7h3.jpg)
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/741f9461ly1fz5dbxkn7nj212w0lv7h3.jpg)
