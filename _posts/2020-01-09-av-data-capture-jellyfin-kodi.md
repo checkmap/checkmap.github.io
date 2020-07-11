@@ -478,14 +478,14 @@ naming_rule = title
 新建一个文本文档，贴入以下内容：
 
 ```
-Object("Wscript.Shell") 
+Set ws = CreateObject("Wscript.Shell") 
    ws.run "cmd /c 你的安装目录\jellyfin.exe",vbhide
 ```
 
 如果你安装在了默认位置，那就是：
 
 ```
-Object("Wscript.Shell") 
+Set ws = CreateObject("Wscript.Shell") 
    ws.run "cmd /c C:\Users\你的用户名\AppData\Roaming\jellyfin\jellyfin.exe",vbhide
 ```
 
