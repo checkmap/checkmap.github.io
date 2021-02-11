@@ -91,16 +91,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "plum's blog",
+        title: "Plum's Blog",
         href: "https://plumz.me/"
     },{
-        title: "suzumiyashirone's blog",
+        title: "suzumiyashirone's Blog",
         href: "https://suzumiyashirone.github.io/"
-    },{
-        title: "losses don",
-        href: "https://roriri.one/"
     },{
         title: "Rog-Net's Blog",
         href: "https://rog-net.com/"
+    },{
+        title: "螺莉莉数据中心",
+        href: "https://roriri.one/"
     }
 ]
