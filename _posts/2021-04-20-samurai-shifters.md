@@ -37,7 +37,7 @@ tags:
 - 父亲死在迁都途中；
 - 自己一生更是经历7次迁都。
 
-也因此记录无人能及，愣是得了个“搬家大名”的“雅号”名留日本史。
+也因此搬家记录无人能及，愣是得了个[“搬家大名”](https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B9%B3%E7%9B%B4%E7%9F%A9)的“雅号”名留日本史。
 
 ![](https://cdn.jsdelivr.net/gh/Pockies/pic/20210420154710.jpg)
 
