@@ -184,7 +184,9 @@
 
 
 <!-- Google Analytics -->
-{% if site.ga_track_id %}
+
+<!--
+    {% if site.ga_track_id %}
 <script>
     // dynamic User by Hux
     var _gaId = '{{ site.ga_track_id }}';
@@ -200,7 +202,18 @@
     ga('send', 'pageview');
 </script>
 {% endif %}
+--> 
 
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S1WZ7LN39L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-S1WZ7LN39L');
+</script>
 
 <!-- Baidu Tongji -->
 {% if site.ba_track_id %}
