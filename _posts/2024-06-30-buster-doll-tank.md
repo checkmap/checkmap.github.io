@@ -2,7 +2,7 @@
 layout:     post
 title:      机娘，耳机，与情绪价值
 subtitle:   玄学的终点是科学
-date:       2024-07-02
+date:       2024-06-30
 author:     Pockies
 header-img: img/post-bg-052.jpg
 catalog: true
