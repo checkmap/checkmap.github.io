@@ -13,7 +13,6 @@ tags:
     - 生活
 ---
 
-
 > 多年以后，面对满桌子的电子垃圾，破先生将会回想起为了所谓“女毒人声”，而在Amazon买下人生第一幅玄学耳机的那个遥远下午。[-](https://raw.githubusercontent.com/Pockies/pic/master/20240702/PW2024070204.jpg)
 
 如果不出意外，本篇Blog的标题应该是《家有胶妻：女神装置 1/1 BUSTER DOLL 坦克的私房摄影》。
@@ -39,6 +38,35 @@ tags:
 **“玄学的终点是科学！”**
 
 - ※本文所有照片的大尺寸原图（包括文中未贴出的），均存放于[Flickr相册](https://www.flickr.com/photos/pocky-wii/albums/72177720318124767/)，下载随意。
+
+# 正文开始前，先紧急求助！
+
+本篇文章本该发布于2024/07/02，但由于Blog抽风导致无法创建6月30日以后的页面。
+
+Gayhub的debug信息如下：
+
+```
+Found 2 artifact(s)
+##[debug]List artifact count: 2
+Error: Fetching artifact metadata failed. Is githubstatus.com reporting issues with API requests, Pages, or Actions? Please re-run the deployment at a later time.
+Error: Error: Multiple artifacts named "github-pages" were unexpectedly found for this workflow run. Artifact count is 2.
+    at getArtifactMetadata (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/api-client.js:89:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Deployment.create (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/deployment.js:66:1)
+    at main (/home/runner/work/_actions/actions/deploy-pages/v4/src/index.js:30:1)
+Error: Error: Multiple artifacts named "github-pages" were unexpectedly found for this workflow run. Artifact count is 2.
+##[debug]Node Action run completed with exit code 1
+##[debug]Finishing: Deploy to GitHub Pages
+```
+
+**谁能帮帮我！不开玩笑！急！在线等！！**
+
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20190808195043.png)
+
+---
+
+以下正文。
+
 
 # 机娘私房 / 玄学回忆
 
