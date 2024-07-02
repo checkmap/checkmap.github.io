@@ -39,34 +39,6 @@ tags:
 
 - ※本文所有照片的大尺寸原图（包括文中未贴出的），均存放于[Flickr相册](https://www.flickr.com/photos/pocky-wii/albums/72177720318124767/)，下载随意。
 
-# 正文开始前，先紧急求助！
-
-本篇文章本该发布于2024/07/02，但由于Blog抽风导致无法创建6月30日以后的页面。
-
-Gayhub的debug信息如下：
-
-```
-Found 2 artifact(s)
-##[debug]List artifact count: 2
-Error: Fetching artifact metadata failed. Is githubstatus.com reporting issues with API requests, Pages, or Actions? Please re-run the deployment at a later time.
-Error: Error: Multiple artifacts named "github-pages" were unexpectedly found for this workflow run. Artifact count is 2.
-    at getArtifactMetadata (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/api-client.js:89:1)
-    at processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at Deployment.create (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/deployment.js:66:1)
-    at main (/home/runner/work/_actions/actions/deploy-pages/v4/src/index.js:30:1)
-Error: Error: Multiple artifacts named "github-pages" were unexpectedly found for this workflow run. Artifact count is 2.
-##[debug]Node Action run completed with exit code 1
-##[debug]Finishing: Deploy to GitHub Pages
-```
-
-**谁能帮帮我！不开玩笑！急！在线等！！**
-
-![](https://cdn.jsdelivr.net/gh/Pockies/pic/20190808195043.png)
-
----
-
-以下正文。
-
 
 # 机娘私房 / 玄学回忆
 
@@ -662,3 +634,33 @@ DX5的“味道”你可能不喜，但得益于其**对标准曲线的强迫症
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20240702/PW2024070230.jpg)
 
 人生就是这么不可理喻。
+
+# 尾巴的尾巴 / 紧急求助！
+
+**人生是真的不可理喻。**
+
+本篇文章本该发布于2024/07/02，但由于Blog抽风导致无法创建6月30日以后的页面，所以只能时光逆流把日期发在了06/30。
+
+——然而这是权宜之计没有下回。
+
+而Gayhub的debug信息如下：
+
+```
+Found 2 artifact(s)
+##[debug]List artifact count: 2
+Error: Fetching artifact metadata failed. Is githubstatus.com reporting issues with API requests, Pages, or Actions? Please re-run the deployment at a later time.
+Error: Error: Multiple artifacts named "github-pages" were unexpectedly found for this workflow run. Artifact count is 2.
+    at getArtifactMetadata (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/api-client.js:89:1)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at Deployment.create (/home/runner/work/_actions/actions/deploy-pages/v4/src/internal/deployment.js:66:1)
+    at main (/home/runner/work/_actions/actions/deploy-pages/v4/src/index.js:30:1)
+Error: Error: Multiple artifacts named "github-pages" were unexpectedly found for this workflow run. Artifact count is 2.
+##[debug]Node Action run completed with exit code 1
+##[debug]Finishing: Deploy to GitHub Pages
+```
+
+**不开玩笑！谁能帮帮我解决Bug！**
+
+**急！在线等.jpg！！**
+
+![](https://cdn.jsdelivr.net/gh/Pockies/pic/20190808195043.png)
