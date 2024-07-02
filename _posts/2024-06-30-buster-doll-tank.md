@@ -448,7 +448,7 @@ DX5的“味道”你可能不喜，但得益于其**对标准曲线的强迫症
 
 - 而某些新开的洼地小厂，更是故事硬讲尬吹工匠手搓，忽悠人给3w大洋的电子垃圾买单；
 
-- 早在16年就有神仙在论坛兜售所谓[“脑放金砖”](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1357992&extra=&highlight=%E9%87%91%E7%A0%96&page=1)，上演骗子与傻子齐聚一堂的赛博奇观。
+- 早在16年就有神仙在论坛兜售所谓[“脑放金砖”](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1357992&extra=&highlight=%E9%87%91%E7%A0%96&page=1)，上演骗子与傻子齐聚一堂的[赛博奇观](https://bbs.saraba1st.com/2b/forum.php?mod=viewthread&tid=1477835)。
 
 与其投入数以万计的钞票，浪费以年计算的时间，去充满营销话术的玄学世界**屎里淘金**，搭配出完美的**物理EQ**套装。
 
