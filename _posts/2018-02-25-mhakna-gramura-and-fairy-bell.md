@@ -8,6 +8,7 @@ header-img: img/post-bg-013.jpg
 catalog: true
 tags:
     - Galgame
+    - Steam
 ---
 
 [マクナ=グラムラとフェアリー・ベル](http://store.steampowered.com/app/753220/Mhakna_Gramura_and_Fairy_Bell/) 是一款最近登录steam的短篇galgame。
