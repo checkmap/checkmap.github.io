@@ -7,9 +7,8 @@ author:     Pockies
 header-img: img/post-bg-051.jpg
 catalog: true
 tags:
-    - 手办
+    - 机娘
     - 摄影
-    - 寿屋
 ---
 
 作为一名高雅的读书人，每天我都会在[亿恒泰](https://exhentai.org/tag/tankoubon)欣赏无尽的视觉艺术。

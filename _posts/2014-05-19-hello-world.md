@@ -7,7 +7,7 @@ author:     Pockies
 header-img: img/post-bg-001.jpg
 catalog: true
 tags:
-    - 测试
+    - 生活
 ---
 
 ## Hello

@@ -8,7 +8,6 @@ header-img: img/post-bg-003.jpg
 catalog: true
 tags:
     - Galgame
-    - Giga
 ---
 
 bb这个终章引入了一个乍一看很可笑的概念：**幸灾乐祸（暗い喜び）**

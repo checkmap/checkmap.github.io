@@ -7,9 +7,8 @@ author:     Pockies
 header-img: img/post-bg-052.jpg
 catalog: true
 tags:
-    - 手办
+    - 机娘
     - 摄影
-    - 寿屋
     - 生活
 ---
 

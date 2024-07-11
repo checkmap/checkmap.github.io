@@ -8,7 +8,6 @@ header-img: img/post-bg-020.jpg
 catalog: true
 tags:
     - Galgame
-    - Key
 ---
 
 **首先当然是成为桌球王的男人！**

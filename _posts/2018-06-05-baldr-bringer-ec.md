@@ -8,7 +8,6 @@ header-img: img/post-bg-018.jpg
 catalog: true
 tags:
     - Galgame
-    - Giga
 ---
 
 去年评价就落得个毁誉参半的baldr系列[“最终作”](https://pockies.github.io/2017/11/04/baldr-bringer/)，在今年令人大跌眼镜的推出dlc，还闹出已经mu了都能回炉重造导致跳票的笑话。

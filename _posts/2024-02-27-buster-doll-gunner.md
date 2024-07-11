@@ -7,9 +7,8 @@ author:     Pockies
 header-img: img/post-bg-050.jpg
 catalog: true
 tags:
-    - 手办
+    - 机娘
     - 摄影
-    - 寿屋
 ---
 
 ~~在2023年的第423天。~~

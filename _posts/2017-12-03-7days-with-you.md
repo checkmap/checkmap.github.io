@@ -8,7 +8,6 @@ header-img: img/post-bg-004.jpg
 catalog: true
 tags:
     - Galgame
-    - Life0
 ---
 
 **“我要是哪天走了，你会哭吗？”**

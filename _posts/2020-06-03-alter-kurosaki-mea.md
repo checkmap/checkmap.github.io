@@ -9,7 +9,6 @@ catalog: true
 tags:
     - 手办
     - 摄影
-    - Alter
 ---
 
 众所周知。

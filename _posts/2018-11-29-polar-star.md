@@ -8,7 +8,6 @@ header-img: img/post-bg-026.jpg
 catalog: true
 tags:
     - Galgame
-    - 同人
 ---
 
 《我的梦想》
