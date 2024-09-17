@@ -33,7 +33,7 @@ tags:
 
 ![](https://raw.githubusercontent.com/Pockies/pic/master/20240917/PW2024091702.jpg)
 
-|图片引自[プレナム速報](https://plenum756.com/blog/kotobukiya/busterdol-paladin/)
+图片引自[プレナム速報](https://plenum756.com/blog/kotobukiya/busterdol-paladin/)|
 
 虽然狗屋为了改善零件成型金的观感，往塑料里加入闪粉实现了自带“珠光色”，但——
 
