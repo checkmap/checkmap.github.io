@@ -334,7 +334,7 @@ tags:
 
 并终于涂出了个人满意的漆面：
 
-![](https://raw.githubusercontent.com/Pockies/pic/master/20240917/PW2024091710.jpg)
+![](https://raw.githubusercontent.com/Pockies/pic/master/20240917/PW2024091718.jpg)
 
 而干扫时**“每涂一次都得洗笔”**如此重要的信息，在我看过的视频/文字教程里没有任何人提及——
 
