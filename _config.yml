@@ -1,10 +1,10 @@
 # Site settings
-title: Pockies
-SEOTitle: Pockies | 博客
+title: Checkmap
+SEOTitle: Checkmap | 博客
 header-img: img/post-bg-home.jpg
-#email: tsuki.ovo@gmail.com
-description: "Pockies | 博客"
-keyword: "Pockies, Pockies Wili, 破威力, 黄油, Galgame, Anime, Review"
+#email: xiangegg666@gmail.com
+description: "Checkmap | 博客"
+keyword: "Checkmap, 破威力, 黄油, Galgame, Anime, Review"
 url: "http://pockies.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 #github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
